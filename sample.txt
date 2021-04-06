@@ -1,0 +1,7 @@
+Hello, this is a "test"
+Its supposed to find the word test in all lines
+So I have to write the word test a lot
+Though not in every line
+Because that makes no sense
+How would I know it works
+Anyway, yes, this is a test
